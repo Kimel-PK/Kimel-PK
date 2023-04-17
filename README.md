@@ -10,3 +10,17 @@
 </a>
 
 ---
+
+### Moje Game Jamy
+
+#### SpaceJam 2022 - Koło naukowe studentów UJ FAIS Gamedev Students Associations
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimel-PK&repo=Remember_How_You_Die_SpaceJam2022)]([https://github.com/Kimel-PK/Short_Neighborhood_KrakJam2023](https://github.com/Kimel-PK/Remember_How_You_Die_SpaceJam2022))
+
+#### KrakJam 2023 - Digital Dragons, Krakowski Park Technologiczny
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimel-PK&repo=Short_Neighborhood_KrakJam2023)](https://github.com/Kimel-PK/Short_Neighborhood_KrakJam2023)
+
+#### SpaceJam 2023 - Koło naukowe studentów UJ FAIS Gamedev Students Associations
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OldLord-dev&repo=Border-Hustle)](https://github.com/OldLord-dev/Border-Hustle)
