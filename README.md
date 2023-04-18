@@ -27,6 +27,6 @@
 
 #### SpaceJam 2023 - Koło naukowe studentów UJ FAIS Gamedev Students Associations
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OldLord-dev&repo=Border-Hustle)](https://github.com/OldLord-dev/Border-Hustle)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OldLord-dev&repo=Border-Hustle)](https://github.com/OldLord-dev/Border-Hustle/tree/space-jam-2023)
 
 [Link do gry na itch.io](https://kimel.itch.io/border-hustle)
