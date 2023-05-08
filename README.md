@@ -15,18 +15,18 @@
 
 #### SpaceJam 2022 - Koło naukowe studentów UJ FAIS Gamedev Students Associations
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimel-PK&repo=Remember_How_You_Die_SpaceJam2022)](https://github.com/Kimel-PK/Remember_How_You_Die_SpaceJam2022)
+[![Readme Card](https://readmestats.999857.xyz/api/pin/?username=Kimel-PK&repo=Remember_How_You_Die_SpaceJam2022)](https://github.com/Kimel-PK/Remember_How_You_Die_SpaceJam2022)
 
 [Link do gry na itch.io](https://tymiec1337.itch.io/remember-how-you-die)
 
 #### KrakJam 2023 - Digital Dragons, Krakowski Park Technologiczny
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimel-PK&repo=Short_Neighborhood_KrakJam2023)](https://github.com/Kimel-PK/Short_Neighborhood_KrakJam2023)
+[![Readme Card](https://readmestats.999857.xyz/api/pin/?username=Kimel-PK&repo=Short_Neighborhood_KrakJam2023)](https://github.com/Kimel-PK/Short_Neighborhood_KrakJam2023)
 
 [Link do gry na GlobalGameJam](https://globalgamejam.org/2023/games/short-neighborhood-1)
 
 #### SpaceJam 2023 - Koło naukowe studentów UJ FAIS Gamedev Students Associations
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OldLord-dev&repo=Border-Hustle)](https://github.com/OldLord-dev/Border-Hustle/tree/space-jam-2023)
+[![Readme Card](https://readmestats.999857.xyz/api/pin/?username=OldLord-dev&repo=Border-Hustle)](https://github.com/OldLord-dev/Border-Hustle/tree/space-jam-2023)
 
 [Link do gry na itch.io](https://kimel.itch.io/border-hustle)
